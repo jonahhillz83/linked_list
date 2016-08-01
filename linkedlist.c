@@ -1,9 +1,9 @@
 /*
  *
  *Lab4
- *Program:Binary search
+ *Program:Link List
  *Author: Pratyush Nepal
- *Ref:http:book
+ *Ref:Book
  *
  */
 #include<stdio.h>
