@@ -1,3 +1,11 @@
+/*
+ *
+ *Lab4
+ *Program:Binary search
+ *Author: Pratyush Nepal
+ *Ref:http:book
+ *
+ */
 #include<stdio.h>
 #include<stdlib.h>
 
